@@ -6,6 +6,6 @@ Key Insights:
 - Most popular room type is "Standard"
 - Cancellation rate is highest for "Suite" rooms
 - Loyal customers tend to book longer stays
-- Peak season is between June and August
+- Seasonal planning (Peak season)
 
 Tools: SQL Server, Power BI
